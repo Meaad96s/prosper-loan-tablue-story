@@ -12,11 +12,10 @@ The story derive insights on prosper loans for future reference and facts. The d
 ### Design
 
 
-* **Bar chart to show the relationship between occupation and number of loans.**
-* **Side by Side plot to present time series data. the graph shows monthly income over Loan dates along year/quarter.**
-* **Bar short to depic the number of loan per status.**
-* **Dashboard to intensify the affect of income range in loans by showing the relationship between income and loans in years and loan amount.**
-* **Map graph of USA cities that depicts the density of prosper loan by filtering the cities that have xertain percentage of prosper loan.**
+* **Map graph of USA cities that depicts the density of prosper loan by filtering the cities that have certain percentage of prosper loan.**
+* **Dashboard to intensify the affect of income range in loans by showing the relationship between income and income verifiability and loan amount.**
+* **Bar chart to show the relationship between occupation and the amount of loan.**
+* **Bar short to depic loan status according to number of friends who invested in the loan.**
 
 ### Feedback
 1. the first visual seems not to exist ? or there somethin wrong with my browser not sure
@@ -26,11 +25,11 @@ The story derive insights on prosper loans for future reference and facts. The d
 3. the third visual/dashboard: on the right side the one to distinguish colors is confusing, should bee in order from highest to lowest or the opposite.
 * **My changes: sort income range acsendingly**
 4. the 4th visual, the pink bar chart for length of loan and status; i did not understand what is the purpose of it ?
-* **My changes: it's supposed to show the number of pending/ completed status, I will add a more meaningful output by addign an attribute of interest rate; in order to see how interest rate affect loan status **
+* **My changes: it's supposed to show the number of pending/ completed status, I will add a more meaningful output by addign an attribute of number of investors; in order to see how number of investors affect loan status **
 5. the fifth visual, the bar charts, i dont understand it, nor know what is the purpose of it
-* **My changes:The bar sharts aim to show the number of loans taken over the years, I can conclude that it's negatively skewed & increased as the years go further.**
+* **My changes:The bar sharts aim to show the number of loans taken over the years, I change the whole visual.**
 6. the final visual seems interesting but needs more working; maybe can be split into different visuals by job and defaulting/unability of paying back the loan, and only show like top 10 or lowest 10
-* **My changes: will try to tweak it as mentioned**
+* **My changes: tweaked it as mentioned**
 7. In first point, the points should be in USA not around the world 
 * **My changes: Noted as it's I had this note earlier**
 8. In the second part you mentioned in the graph that as income increases the loan amount increases but I see normal distribution in the graph 
