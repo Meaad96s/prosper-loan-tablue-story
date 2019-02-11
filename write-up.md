@@ -4,6 +4,7 @@
 https://public.tableau.com/profile/meaad#!/vizhome/ProsperLoanStory_2/Story1
 
 ### 2nd Version Tableau Story after Feedback:
+https://public.tableau.com/profile/meaad#!/vizhome/InsightsinUSAprosperloans/Story2
 
 ### Summary
 
