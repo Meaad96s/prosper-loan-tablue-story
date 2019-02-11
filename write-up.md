@@ -41,7 +41,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 * **My changes: stated that in the first caption**
 
 ### Dataset
-[](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+[Download here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
     
  ### Resource
  
