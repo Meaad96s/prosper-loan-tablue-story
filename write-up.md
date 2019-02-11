@@ -43,5 +43,6 @@ The story derive insights on prosper loans for future reference and facts. The d
  
 https://public.tableau.com/en-us/s/resources
 http://www.vizwiz.com/p/tips.html
+https://community.tableau.com/thread/215365
 
 
