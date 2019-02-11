@@ -9,6 +9,7 @@ https://public.tableau.com/profile/meaad#!/vizhome/ProsperLoanStory_2/Story1
 
 The story derive insights on prosper loans for future reference and facts. The data set has 113,937 loans along with 81 variables of each loan, including loan amount, interest rate ..etc. The story shed light on strong relationship that show correlation and point out the most important loan variables.
 
+
 ### Design
 
 
@@ -39,7 +40,8 @@ The story derive insights on prosper loans for future reference and facts. The d
 9. I couldn't see the message that you are trying to convie in this story. I think you should focus on a point or two
 * **My changes: stated that in the first caption**
 
-
+### Dataset
+[](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
     
  ### Resource
  
