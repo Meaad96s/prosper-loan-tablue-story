@@ -18,6 +18,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 * **Bar short to depic loan status according to number of friends who invested in the loan.**
 
 ### Feedback
+#### Reviewr 1
 1. the first visual seems not to exist ? or there somethin wrong with my browser not sure
 * **My changes: I added a caption by mistake and Tableau does not allow me to delete it >> My new story will have no redundant captions**
 2. the second visual the map seems to be wrong
@@ -30,6 +31,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 * **My changes:The bar sharts aim to show the number of loans taken over the years, I change the whole visual.**
 6. the final visual seems interesting but needs more working; maybe can be split into different visuals by job and defaulting/unability of paying back the loan, and only show like top 10 or lowest 10
 * **My changes: tweaked it as mentioned**
+#### Reviewer w
 7. In first point, the points should be in USA not around the world 
 * **My changes: Noted as it's I had this note earlier**
 8. In the second part you mentioned in the graph that as income increases the loan amount increases but I see normal distribution in the graph 
