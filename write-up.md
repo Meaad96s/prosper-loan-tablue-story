@@ -26,7 +26,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 3. the third visual/dashboard: on the right side the one to distinguish colors is confusing, should bee in order from highest to lowest or the opposite.
 * **My changes: sort income range acsendingly**
 4. the 4th visual, the pink bar chart for length of loan and status; i did not understand what is the purpose of it ?
-* **My changes: it's supposed to show the number of pending/ completed status, I will add a more meaningful output by addign an attribute of number of investors; in order to see how number of investors affect loan status **
+* **My changes: it's supposed to show the number of pending/ completed status, I will add a more meaningful output by addign an attribute of number of investors; in order to see how number of investors affect loan status**
 5. the fifth visual, the bar charts, i dont understand it, nor know what is the purpose of it
 * **My changes:The bar sharts aim to show the number of loans taken over the years, I change the whole visual.**
 6. the final visual seems interesting but needs more working; maybe can be split into different visuals by job and defaulting/unability of paying back the loan, and only show like top 10 or lowest 10
@@ -43,8 +43,8 @@ The story derive insights on prosper loans for future reference and facts. The d
     
  ### Resource
  
-https://public.tableau.com/en-us/s/resources
-http://www.vizwiz.com/p/tips.html
-https://community.tableau.com/thread/215365
+* https://public.tableau.com/en-us/s/resources
+* http://www.vizwiz.com/p/tips.html
+* https://community.tableau.com/thread/215365
 
 
