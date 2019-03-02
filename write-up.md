@@ -8,7 +8,7 @@ https://public.tableau.com/profile/meaad#!/vizhome/InsightsinUSAprosperloans/Sto
 
 ### Summary
 
-The story derive insights on prosper loans for future reference and facts. The data set has 113,937 loans along with 81 variables of each loan, including loan amount, interest rate ..etc. The story shed light on strong relationship that show correlation and point out the most important loan variables.
+The story derive insights on prosper loans for future reference and facts. The data set has 113,937 loans along with 81 variables of each loan, including loan amount, interest rate ..etc. The story shed light on strong relationship that shows correlation and point out the most important loan variables.
 
 
 ### Design
@@ -17,7 +17,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 * **Map graph of USA cities that depicts the density of prosper loan by filtering the cities that have certain percentage of prosper loan.**
 * **Dashboard to intensify the affect of income range in loans by showing the relationship between income and income verifiability and loan amount.**
 * **Bar chart to show the relationship between occupation and the amount of loan.**
-* **Bar short to depic loan status according to number of friends who invested in the loan.**
+* **Bar short to depict loan status according to number of friends who invested in the loan.**
 
 ### Feedback
 #### Reviewr 1
@@ -33,7 +33,7 @@ The story derive insights on prosper loans for future reference and facts. The d
 * **My changes:The bar sharts aim to show the number of loans taken over the years, I change the whole visual.**
 6. the final visual seems interesting but needs more working; maybe can be split into different visuals by job and defaulting/unability of paying back the loan, and only show like top 10 or lowest 10
 * **My changes: tweaked it as mentioned**
-#### Reviewer w
+#### Reviewer 2
 7. In first point, the points should be in USA not around the world 
 * **My changes: Noted as it's I had this note earlier**
 8. In the second part you mentioned in the graph that as income increases the loan amount increases but I see normal distribution in the graph 
